@@ -1,0 +1,29 @@
+1.What is the difference between SDLC and STLC?
+A: Software Development Life Cycle (SDLC) is a sequence of different activities performed during the software development process. Software Testing Life Cycle (STLC) is a sequence of different activities performed during the software testing process. SDLC is mainly related to software development.
+
+2.What are Verification and Validation?
+A: Verification is the process for determining whether or not a product fulfills the requirements or specifications established for it. Validation is the assessment of a planned or delivered system to meet the sponsor's operational need in the most realistic environment achievable.
+
+3.What is Authorizatin and Authentication?
+A: authentication is the process of verifying who someone is, whereas authorization is the process of verifying what specific applications, files, and data a user has access to.
+
+4.What is Test management and its importance?
+A: Test management involves planning and organizing your tests so that you can ensure the traceability software testing process. This visibility is important, so that quality and engineering leaders can be sure their releases run as expected and look for ways to improve.
+
+5.Define client side and server side validation?
+A: When you enter data, the browser and/or the web server will check to see that the data is in the correct format and within the constraints set by the application. Validation done in the browser is called client-side validation, while validation done on the server is called server-side validation.
+
+6.Explain the request response flow from front end to back end?
+A: Frontend and backend communicate with each other - via Http requests. The frontend will, for example, send entered data to the backend. The backend might then again validate that data (since frontend code can be tricked) and finally store it in some database.
+
+7.Explain the life cycle phases of the project?
+A: There are 5 phases to the project life cycle (also called the 5 process groups)—initiating, planning, executing, monitoring/controlling, and closing. Each of these project phases represents a group of interrelated processes that must take place.
+
+8.How do you define success?
+A: Success is being part of something bigger, helping an organization to meet worthy goals, to bring some value to the world.Success is being able to do your best every day in all roles you have in life, whether it is a role of a son, father, or an employee.
+
+9.What are your strengths and weakness?
+A: My strength is I'm a quick learner and I'm adaptable to work in any environment And I consider myself a focused person. My weakness is I'm afraid of asking help, however I am learning to ask for help from others to expedite my own work
+
+10.Have you faced any challenging situation and how did you overcome it?
+A: Yes, after my parents are passed away from life at my age of 14. I had faced everydwith difficlutiay as a new challenge to me because I dont know how to tackle with difficulties ever before and then from that days to till now am struggling with many obstacles to settle in my life and to grow my career in respectful and decent way.In these situations, I had learned one thing that every problem will comes with solution we just have to focus on it and prepare ourselves to crack by understanding it. 
